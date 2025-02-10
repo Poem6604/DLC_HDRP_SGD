@@ -15,13 +15,13 @@ MonoBehaviour:
   active: 1
   lift:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.86714214, z: 0.62171483, w: -0.8005427}
+    m_Value: {x: 1, y: 0.81483424, z: 0.66337883, w: 0.39348713}
   gamma:
     m_OverrideState: 1
-    m_Value: {x: 0.8730339, y: 1, z: 0.78938574, w: 0.8005426}
+    m_Value: {x: 0.9951121, y: 0.9568983, z: 1, w: -0.6377205}
   gain:
     m_OverrideState: 1
-    m_Value: {x: 0.8097609, y: 0.81096274, z: 1, w: -0.08141112}
+    m_Value: {x: 0.8699807, y: 0.8389347, z: 1, w: -0.6919945}
 --- !u!114 &-2931956118311607893
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -125,13 +125,13 @@ MonoBehaviour:
   active: 1
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 1, y: 0.5354935, z: 0, w: 0.24016279}
+    m_Value: {x: 1, y: 0.08331627, z: 0, w: -1}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.7349425, y: 1, z: 0.6334969, w: 0.71913147}
+    m_Value: {x: 1, y: 0, z: 0.019406319, w: 1}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 0.6478479, y: 1, z: 0.7358855, w: -0.040705547}
+    m_Value: {x: 1, y: 0, z: 0.0028338432, w: 1}
   shadowsStart:
     m_OverrideState: 0
     m_Value: 0
@@ -226,19 +226,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   quality:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 371
+    m_Value: 192.6
   intensity:
     m_OverrideState: 1
-    m_Value: 0.073
+    m_Value: 0
   scatter:
     m_OverrideState: 1
-    m_Value: 0.927
+    m_Value: 1
   tint:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.4788626, g: 0.4811321, b: 0.4806387, a: 1}
   dirtTexture:
     m_OverrideState: 0
@@ -250,13 +250,13 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   m_Resolution:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 2
   m_HighQualityPrefiltering:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   m_HighQualityFiltering:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
 --- !u!114 &5713142161619540615
 MonoBehaviour:
