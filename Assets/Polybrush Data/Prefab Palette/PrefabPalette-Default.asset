@@ -30,3 +30,20 @@ MonoBehaviour:
       m_YScaleBool: 0
       m_ZScaleBool: 0
     name: GroundCover01
+  - gameObject: {fileID: 1300773691608360, guid: cdfb686de96ee57479ec834151e92dc1,
+      type: 3}
+    settings:
+      m_Strength: 16.722689
+      m_RotationRangeMin: {x: 0, y: 0, z: 0}
+      m_RotationRangeMax: {x: 0, y: 0, z: 0}
+      m_ScaleRangeMin: {x: 1, y: 1, z: 1}
+      m_ScaleRangeMax: {x: 1, y: 1, z: 1}
+      m_UniformScale: {x: 1, y: 1}
+      m_UniformBool: 1
+      m_XRotationBool: 0
+      m_YRotationBool: 1
+      m_ZRotationBool: 0
+      m_XScaleBool: 0
+      m_YScaleBool: 0
+      m_ZScaleBool: 0
+    name: HangingMoss01
